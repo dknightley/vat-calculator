@@ -1,0 +1,2 @@
+image: dknightley/vatcalc:<+pipeline.sequenceId>
+replicas: 1
